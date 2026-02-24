@@ -1,4 +1,4 @@
-# Hi 👋, I'm Coddy
+# Hi 👋, I'm Michelle
 
 ### A passionate learner in web development and programming 
 
