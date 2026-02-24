@@ -6,8 +6,8 @@
 I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
 
 # Link
-[Link text](https://coddy-m.com)
-[Link text](https:www.freecodecamp.org)
+[Link text](https://github.com/coddy-m)
+[Link text](https://www.freecodecamp.org)
 
 # List
 - SQL
