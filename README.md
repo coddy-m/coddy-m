@@ -1,4 +1,4 @@
-# Michelle - Week 03 Portfolio
+# Michelle - Portfolio
 
 Hi! 👋  
 This is my portfolio website I built during Week 3 of IYF Season 10.  
@@ -13,12 +13,7 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 ## Live Demo
 
-[See my website live →](https://coddy-m.github.io/iyf-s10-week-03-coddy-m/)
-
-## Screenshot
-
-![My portfolio screenshot](./images/screenshot.png)  
-(Add your screenshot here later — take a photo of the live site and save it in an "images" folder)
+[See my website live ](https://coddy-m.github.io/iyf-s10-week-02-coddy-m/)
 
 ## Features I built
 
@@ -53,7 +48,7 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 
 
-## What I learned (simple list)
+## What I learned 
 
 - I can build a whole project without using the mouse!
 - Good commit messages make my Git history easy to read
