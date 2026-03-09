@@ -36,6 +36,19 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 ## Project structure
 
+```
+.
+├── about.html
+├── contact.html
+├── css
+│   └── styles.css
+├── images
+│   └── screenshot.png
+├── index.html
+├── projects.html
+└── README.md
+
+```
 
 
 
