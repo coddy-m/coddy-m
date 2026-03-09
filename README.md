@@ -63,4 +63,4 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 ## License
 
-This project is open source → you can use it under the [MIT License](LICENSE).
+This project is open source → you can use it under the [MIT License](LICENSE)
