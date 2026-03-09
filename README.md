@@ -15,6 +15,9 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 [See my website live ](https://coddy-m.github.io/iyf-s10-week-02-coddy-m/)
 
+## Screenshot
+[Project screenshot](https://github.com/coddy-m/coddy-m/blob/main/images/Screenshot%20(14).png)
+
 ## Features I built
 
 - Works on phone and computer (responsive)
