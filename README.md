@@ -38,5 +38,29 @@ I learned how to use the terminal, Git, and GitHub like a real developer — no 
 
 
 
+## What I learned (simple list)
+
+- I can build a whole project without using the mouse!
+- Good commit messages make my Git history easy to read
+- Branches help me try new things without breaking the main code
+- Merge conflicts are not scary — just fix the marked parts
+- A good README helps everyone (including future me) understand the project
+
+## Things I want to add next
+
+- [ ] Make things move or change with JavaScript
+- [ ] Add a dark mode button
+- [ ] Let people filter my projects
+- [ ] Make the contact form actually send messages
+
+## Say hi!
+
+- **Email**: coddy.hub@gmail.com
+- **GitHub**: [@coddy-m](https://github.com/coddy-m)
+
+
+## License
+
+This project is open source → you can use it under the [MIT License](LICENSE).
 
 
