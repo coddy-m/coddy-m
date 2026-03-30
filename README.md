@@ -20,4 +20,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coddy&show_icons=true&locale=en" alt="coddy" /></p>
 
+  <div>
+    <picture>
+      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
+      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
+      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+    </picture>
+  </div>
 
