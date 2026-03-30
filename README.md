@@ -20,11 +20,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coddy&show_icons=true&locale=en" alt="coddy" /></p>
 
-  <div>
-    <picture>
-      <source style="min-width: 100%;" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake-dark.svg">
-      <source style="min-width: 100%;" media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg">
-      <img style="min-width: 100%;" src="https://raw.githubusercontent.com/mejbaul-km/mejbaul-km/output/github-snake.svg" alt="GitHub Snake">
+![Snake animation](https://github.com/coddy-m/coddy-m/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/coddy-m/coddy-m/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/coddy-m/coddy-m/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/coddy-m/coddy-m/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
     </picture>
   </div>
 
