@@ -18,7 +18,7 @@
 <a href="https://github.com/coddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="coddy" height="30" width="40" /></a>
 </p>
 
-
+ ### Tech Stack
 <p align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=javaScript" /><br/>
