@@ -30,6 +30,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coddy-m&show_icons=true&theme=tokyonight&hide=issues)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=coddy-m&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coddy-m&theme=react-dark)
