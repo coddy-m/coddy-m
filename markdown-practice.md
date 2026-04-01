@@ -3,11 +3,11 @@
 ### This Semester
 
 # Text formatting
-I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
+- I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
 
 # Link
-[Link text](https://github.com/coddy-m)
-[Link text](https://www.freecodecamp.org)
+- [coddy-m](https://github.com/coddy-m)
+- [freecodecamp.org](https://www.freecodecamp.org)
 
 # List
 - SQL
@@ -19,7 +19,7 @@ I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
 3. Finalize the commit
 
 # Table
-| Tool       |  Purpose                                              |    Link                                 
+| Tool       |  Purpose                                          |    Link                  |                
 |------------|---------------------------------------------------|--------------------------|            
 |VS Code     |writing,debbuging and linting with code extensions |code.visualstudio.com     |                                 
 |Github      |pull requests and collaborative coding             |github.com                |                        
@@ -35,7 +35,7 @@ I'm building skills on **HTML**, *JAVASCRIPT*  and `PYTHON`
 # Code Block
 ```python
 def hello_world():
-print(''Hello, World''()
+print("Hello, World!")
 
 #Blockquote
 > if you cannot do great things, do small things in a great way.
