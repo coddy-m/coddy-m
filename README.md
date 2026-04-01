@@ -1,8 +1,13 @@
-# Hi 👋, I'm Michelle
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=200&section=header&text=MICHELLE&fontSize=50&animation=fadeIn"/>
 
-### A passionate learner in web development and programming 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Designer;Problem+Solver&center=true&size=25">
+</p>
 
-- 🌱 I'm currently learning Computer programming 
+### A passionate learner in web development
+
+- 🌱 I'm currently enhancing skills in HTML,CSS and JAVASCRIPT
 
 - 👯 I'm looking to collaborate on Beginner friendly open source projects 
 
@@ -13,12 +18,17 @@
 <a href="https://github.com/coddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="coddy" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coddy&show_icons=true&locale=en&layout=compact" alt="coddy" /></p>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=javaScript" /><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coddy&show_icons=true&locale=en" alt="coddy" /></p>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs" /><br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 
 <!-- Snake animation -->
@@ -33,3 +43,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=coddy-m&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coddy-m&theme=react-dark)
+
