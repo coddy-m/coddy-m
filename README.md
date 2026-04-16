@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=200&section=header&text=MICHELLE&fontSize=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:f09819&height=200&section=header&text=MICHELLE WANJA&fontSize=50&animation=fadeIn"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;Designer;Problem+Solver&center=true&size=25">
