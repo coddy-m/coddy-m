@@ -38,7 +38,8 @@
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/coddy-m/coddy-m/output/github-contribution-grid-snake.svg">
 </picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coddy-m&show_icons=true&theme=tokyonight&hide=issues)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coddy-m&show_icons=true&theme=tokyonight&hide=issues)<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coddy-m&layout=compact&theme=tokyonight" />
+
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=coddy-m&theme=radical)
 
